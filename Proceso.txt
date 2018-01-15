@@ -1,0 +1,16 @@
+crear array con las cartas;
+
+asignar la opcion al jugador de escoger el valor del As
+
+lanzador del juego
+
+una funcion que coja cartas al azar
+
+implantar la opcion de pedir carta y pasar
+
+poner logica del la maquina
+
+establecer que quien se acerque mas a 21 gana;
+
+
+
